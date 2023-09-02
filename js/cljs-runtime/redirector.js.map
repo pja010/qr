@@ -1,1 +1,0 @@
-{"version":3,"sources":["redirector.cljs"],"mappings":";AAEA,kBAAA,lBAAMA;AAAN,AACE,aAAA,NAACC","names":["redirector/main","js/alert"],"sourcesContent":["(ns redirector)\n\n(defn main []\n  (js/alert \"Hello there friend\"))   "]}
